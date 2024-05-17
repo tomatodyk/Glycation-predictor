@@ -1,3 +1,5 @@
+###This is a lysine glycation prediction software, you can download the software from the folder, after that you can follow the steps below to use it：
+
 1. The researcher needs to store the protein sequence to be predicted into a “.txt” file, the first line stores the name of the protein sequence, the second line is the long sequence of the protein to be predicted.
    
    ![image](https://github.com/tomatodyk/Glycation-predictor/assets/107628699/d385a2f0-2e4b-40d4-863f-a348d8f83f3d)
@@ -17,7 +19,7 @@
    ![image](https://github.com/tomatodyk/Glycation-predictor/assets/107628699/013f8682-bb5e-4390-b685-135f054bb0f7)
    ![image](https://github.com/tomatodyk/Glycation-predictor/assets/107628699/841da00b-940e-4f34-980b-2816703f08e1)
 
-The file “example.txt” in the instance folder can be used as a reference.
+####The file “example.txt” in the instance folder can be used as a reference.If you have any questions, you can contact me:leslie526526@163.com
 
 
 

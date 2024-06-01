@@ -1,4 +1,4 @@
-###This is a lysine glycation prediction software, Run the “.mian” file and download the corresponding third-party library (python interpreter 3.10.1), after that you can follow the steps below to use it：
+###This is a lysine glycation prediction software, Run the “.main” file and download the corresponding third-party library (python interpreter 3.10.1), after that you can follow the steps below to use it：
 
 1. The researcher needs to store the protein sequence to be predicted into a “.txt” file, the first line stores the name of the protein sequence, the second line is the long sequence of the protein to be predicted.
    
